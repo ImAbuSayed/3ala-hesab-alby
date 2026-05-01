@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit 64858eb607a8d09be8ea70efb324d2542c8e812d
+> نور القمر يلمع في عيونك
+> يا ساحرة روحي وقلبي معاك
+> كل النجوم تهمس في سكونك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
