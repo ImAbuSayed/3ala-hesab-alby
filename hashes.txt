@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - 3ala Hesab Alby
+
+This log tracks the cryptographic history and versioning for the song **3ala Hesab Alby** (3ala-hesab-alby).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T00:35:25.161459 | `v1` | `e02830432d9a96b15c82833e85809bdb45bdacbc625d49840ba1af8efdc47b10` | `61ef9345635ba5b4dfd99a634265a1422867bdf2224fd3af011cca630fc00975` | `2026-05-09_3ala-hesab-alby-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
